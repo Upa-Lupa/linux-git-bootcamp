@@ -1,1 +1,1 @@
-# linux-git-bootcamp
+# linux-git-bootcampmy linux & git Bootcamp notes
